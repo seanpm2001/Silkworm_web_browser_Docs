@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🕸️🪱️📖️ The official documentation source repository for the Silkworm web browser, which is part of the BlazeOS operating system project. It is based on UnGoogled Chromium.
